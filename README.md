@@ -14,6 +14,14 @@
 <div>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/django-092E20?style=flat&logo=django&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"> 
+</div>
+
+<!-- <br> -->
+
+<div>
+  <img src="https://img.shields.io/badge/fastapi-009688?style=flat&logo=fastapi&logoColor=white"> 
+  <img src="https://img.shields.io/badge/docker-2496ED?style=flat&logo=docker&logoColor=white"> 
 </div>
 
 <br>
