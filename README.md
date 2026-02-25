@@ -42,6 +42,7 @@
 <div>
   <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=flat&logo=GitLab&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jira-0052CC.svg?style=flat&logo=jira&logoColor=white" />&nbsp
 </div>
 
 <br>
